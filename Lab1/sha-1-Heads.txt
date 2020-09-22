@@ -1,0 +1,23 @@
+commit b85752b1f6a8d36af43a131b7a6e9cb3d62be420 (HEAD -> main, origin/main)
+Author: Hanbecov Dmitrii TI-185 <70962813+Atamit279@users.noreply.github.com>
+Date:   Tue Sep 22 17:37:22 2020 +0300
+
+    Create FINAL.txt
+
+commit ca88e30932650fa6e20dded6be0f62c1a1b86655
+Merge: 7210c65 45aa8fb
+Author: Hanbecov Dmitrii TI-185 <daimanroyal@gmail.com>
+Date:   Tue Sep 22 17:17:37 2020 +0300
+
+    Merge branch '2' into main
+
+commit 7210c656d13300b96f0f291b15d972daefeb359e
+Merge: 3e447f2 633dcaf
+Author: Hanbecov Dmitrii TI-185 <daimanroyal@gmail.com>
+Date:   Tue Sep 22 17:14:59 2020 +0300
+
+    Merge branch '1' into main
+
+commit 45aa8fb1d34225becba21ee7c1d4c192f7ea62d4 (origin/2, 2)
+Author: Hanbecov Dmitrii TI-185 <daimanroyal@gmail.com>
+Date:   Tue Sep 22 17:14:42 2020 +0300
